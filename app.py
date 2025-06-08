@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain.schema import Document
 import PyPDF2
-groqapi = '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'
+groqapi = ''
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
